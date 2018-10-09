@@ -1,0 +1,20 @@
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 1px solid #f2f2f2;
+    padding: 0.35rem 0.7rem;
+    
+    &__icon {
+        font-size: 14px;
+    }
+    &--primary {
+        background-color: blue;
+        color: #fff;
+    }
+    &--secondary {
+        background-color: #ccc;
+    }
+} 

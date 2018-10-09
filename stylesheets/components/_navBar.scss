@@ -1,0 +1,19 @@
+.navBar {
+    &__list {
+        display: flex;
+        align-items: center;
+    }
+    &__link {
+        text-decoration: none;
+    }
+    &__icon {
+        width: 20px;
+        height: 20px;
+        background-color: #fff;
+        border-radius: 100%;
+        color: #333;
+    }
+    &--red {
+        background-color: red;
+    }
+}

@@ -1,0 +1,13 @@
+.footer {
+    
+    &__link {
+        text-decoration: none;
+        color: #fff;
+    }
+    &__list {
+        display: flex;
+    }
+    &--homepage {
+        background-color: #000;
+    }
+}

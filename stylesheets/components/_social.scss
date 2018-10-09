@@ -1,0 +1,14 @@
+.social {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    &__icon {
+        width: 25px;
+        height: 25px;
+        background-color: #fff;
+        color: #333;
+    }
+    &--vertical {
+        display: block;
+    }
+}
