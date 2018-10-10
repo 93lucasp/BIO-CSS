@@ -48,4 +48,4 @@ With this CSS structure you have everything on a visual level and that makes eve
 
 That's why **BIO** makes it easier to work with large scale css projects.
 
-![gif yeah](https://media.giphy.com/media/l4HohVwFLzHKcwa6A/giphy.gif)
+![gif yeah](https://media.giphy.com/media/lGmKzynHWftFm/giphy.gif)
