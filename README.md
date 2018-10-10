@@ -19,14 +19,14 @@ For example, imagine a living room with tv, library and sofà.
 In this case tv, library, sofà are independent modules and we can conclude that tv doesn't need library to work and neither the sofà or the library needs each other to work. Modules can have also components, for instance: the television has the controller as component. **As tv, sofà and library create the living room, different modules can create complex system**.
 
 The CSS methodologies are useful because they make the CSS code **Scalable**, **Maintainable** and **Modular**. The most famous are: **BEM, SMACSS, OOCSS, ITCSS**
-I'm not here to explain you these methodologies, you can find here some very good explanation: BEM, SMACSS, OOCSS and ITCSS.
+I'm not here to explain you these methodologies, you can find here some very good explanation: [BEM, SMACSS, OOCSS](https://medium.com/@Intelygenz/how-to-organize-your-css-with-oocss-bem-smacss-a2317fa083a7) and [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)ITCSS.
 I have been thinking a while if mixing all 4 methodologies is the best solution and how it is possible.
 I've understood that SMACSS is very difficult to use with the others, especially for 2 reason:
 
 * It could be confusing if you use BEM and you start to use the prefix of SMACSS
 * In my opinion it's more useful to organize CSS rules with ITCSS instead of SMACSS
 
-Meanwhile I've understood that combining:
+Meanwhile I've understood that combining: <br> 
 **B**EM <br> 
 **I**TCSS <br> 
 **O**OCSS <br> 
