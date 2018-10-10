@@ -4,10 +4,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    
+    background-color: #ffffff;
+    &__container {
+        width: 60%;
+    }
     &__title {
         font-size: 36px;
     } 
@@ -15,6 +15,6 @@
         font-size: 16px;
     }
     &--homepage {
-        
+        background-color: red;
     }
 }
