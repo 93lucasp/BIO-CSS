@@ -1,6 +1,6 @@
 # BIO-CSS
 
-##Combining CSS methodologies with BIO
+## Combining CSS methodologies with BIO
 Writing good CSS code started to be a common foundation for large projects, as every other programming language we often have different problems such as over-engineering, overwritten code, hard debugging, no comments, messy code,  no best practice considered etc.
 
 ![gif angry](https://media.giphy.com/media/ToMjGpIYtgvMP38WTFC/giphy.gif)
