@@ -42,7 +42,7 @@ Components → Elements
 In **BIO** we can imagine a module like a component (it would be a block in BEM) where the component can have different elements (as the BEM convention say).
 In few words in BIO we have to use the files structure of ITCSS, using the naming convention of BEM and the principle of OOCSS: when CSS "object" is a repeating visual pattern, is better to abstract it into an independent snippet of CSS. Something like that 👇
 
-![code example](https://ibb.co/jrQHUU)
+![code example](https://postimg.cc/87MXZrN5)
 
 With this CSS structure you have everything on a visual level and that makes everything easier, readable, speaking, no messy code, easy to debug, using best practice, no overwritten code because it's obvious where to add code.
 
