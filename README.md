@@ -1,7 +1,7 @@
 # BIO-CSS
 
 ## Combining CSS methodologies with BIO
-Writing good CSS code started to be a common foundation for large projects, as every other programming language we often have different problems such as over-engineering, overwritten code, hard debugging, no comments, messy code,  no best practice considered etc.
+Writing good CSS code started to be a common foundation for large projects, as every other programming languages we often have different problems such as over-engineering, overwritten code, hard debugging, no comments, messy code,  no best practice considered etc.
 
 ![gif angry](https://media.giphy.com/media/ToMjGpIYtgvMP38WTFC/giphy.gif)
 
@@ -44,7 +44,7 @@ In few words in BIO we have to use the files structure of ITCSS, using the namin
 
 ![code example](https://i.postimg.cc/zGcmXnQn/Screen_Shot_2018-10-10_at_11.50.50.png)
 
-With this CSS structure you have everything on a visual level and that makes everything easier, readable, speaking, no messy code, easy to debug, using best practice, no overwritten code because it's obvious where to add code.
+With this approach you have everything on a visual level and that makes everything easier, readable, speaking, no messy code, easy to debug, using best practice, no overwritten code because it's obvious where to add code and over time doing some changes to your project: adding, removing or changing components you would be free to assemble your **user interface** like a **puzzle**.
 
 That's why **BIO** makes it easier to work with large scale css projects.
 
