@@ -9,9 +9,9 @@
     &__icon {
         width: 20px;
         height: 20px;
-        background-color: #fff;
+        background-color: $white;
         border-radius: 100%;
-        color: #333;
+        color: $black;
     }
     &--red {
         background-color: red;
