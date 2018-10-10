@@ -21,7 +21,7 @@ In this case tv, library, sofà are independent modules and we can conclude that
 CSS methodologies are useful because they make the CSS code **Scalable**, **Maintainable** and **Modular**. The most famous are: **BEM, SMACSS, OOCSS, ITCSS**
 I'm not here to explain you these methodologies, you can find here some very good explanation: [BEM, SMACSS, OOCSS](https://medium.com/@Intelygenz/how-to-organize-your-css-with-oocss-bem-smacss-a2317fa083a7) and [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/) .
 I have been thinking a while if mixing all 4 methodologies is the best solution and how it is possible.
-I've understood that SMACSS is very difficult to use with the others, especially for 2 reason:
+I've understood that SMACSS is very difficult to use with the others, especially for 2 reasons:
 
 * It could be confusing if you use BEM and you start to use the prefix of SMACSS
 * In my opinion it's more useful to organize CSS rules with ITCSS instead of SMACSS
