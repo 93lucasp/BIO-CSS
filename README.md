@@ -27,9 +27,9 @@ I've understood that SMACSS is very difficult to use with the others, especially
 * In my opinion it's more useful to organize CSS rules with ITCSS instead of SMACSS
 
 Meanwhile I've understood that combining:
-**B**EM
-**I**TCSS
-**O**OCSS
+**B**EM <br> 
+**I**TCSS <br> 
+**O**OCSS <br> 
 We can reach perfect CSS structure!
 
 #### HOW TO USE THEM
